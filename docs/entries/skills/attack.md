@@ -1,11 +1,12 @@
 ---
+type: skill
 id: attack
 title: Attack
-category: skill
+category: skills
 summary: Learn about the Attack skill and melee accuracy.
 image: ""
-sort_order: 10
-enabled: true
+order: 10
+display: true
 ---
 
 ## Overview
@@ -15,4 +16,3 @@ Attack is a melee combat skill that affects a player's accuracy with melee weapo
 ## Training
 
 Add training methods, equipment recommendations, and useful locations here.
-

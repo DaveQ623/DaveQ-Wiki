@@ -4,7 +4,7 @@
   "title": "Dashboard Update",
   "speedSeconds": 30,
   "items": [
-    "This is line 1",
-    "This is line 2"
+    "Replace this text with your dashboard update.",
+    "Add more messages to display them in the same scrolling ticker."
   ]
 }

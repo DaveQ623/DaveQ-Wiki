@@ -9,8 +9,9 @@ enabled: true
 ---
 
 ## Requirements
-- Fishing: 30
-There are no requirements for this quest.
+
+Fishing: 25
+- Cooking 20
 
 ## Walkthrough
 
@@ -19,4 +20,3 @@ Add the quest walkthrough here.
 ## Rewards
 
 Add the quest rewards here.
-
