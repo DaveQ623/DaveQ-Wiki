@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "display": false,
+  "display": true,
   "title": "Dashboard Update",
   "speedSeconds": 30,
   "items": [
