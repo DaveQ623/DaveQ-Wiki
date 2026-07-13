@@ -9,7 +9,7 @@ enabled: true
 ---
 
 ## Requirements
-
+- Fishing: 30
 There are no requirements for this quest.
 
 ## Walkthrough
